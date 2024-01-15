@@ -15,22 +15,21 @@ __Frontend Developer II__
 Zions Bancorporation * Feb 2021 - Jan 2022
 
 ### Education
+University of Southern California, Los Angeles — Bachelor of Arts - Film & Television Production
 
-Overview of my educational background, including degrees, institutions, and graduation dates.
+I taught myself how to code using a variety of sources online including [Odin Project] (https://www.theodinproject.com/) and [Scrimba React Bootcamp] (https://scrimba.com/learn/react). Even though I am working full time as a developer, I still regularly hunt for online resources, most recently I am enjoying the courses through the University of Helsinki and their online resources like [Fullstack Open] (https://fullstackopen.com/en/about/)
 
 ### Skills
-
-- **Soft Skills:**
   - Strong Communication
   - Team Collaboration
   - Adaptability
   - Problem-Solving
   - Time Management
-  - Leadership
+  - Organization
 
 ### Projects
 
-__Treasury Gateway__ - a portal for business banking customers that provides an integrated dashboard of all their banking services as well as single sign-on to those related applictions. I was brought on to be the frontend developer and have grown into a fullstack develope while taking this project into production. Currently we are implementing new features and refining current ones. 
+__Treasury Gateway__ - a portal for business banking customers that provides an integrated dashboard of all their banking services as well as single sign-on to those related applictions. I was brought on to be the frontend developer and have grown into a fullstack developer while taking this project into production. Currently we are implementing new features and refining current ones. 
 
 ### References
 
