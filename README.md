@@ -30,7 +30,7 @@ As a Frontend Developer, I successfully contributed to the development of user i
 ### Education
 University of Southern California, Los Angeles — Bachelor of Arts - Film & Television Production
 
-I taught myself how to code using a variety of sources online including [Odin Project] (https://www.theodinproject.com/) and [Scrimba React Bootcamp] (https://scrimba.com/learn/react). Even though I am working full time as a developer, I still regularly hunt for online resources, most recently I am enjoying the courses through the University of Helsinki and their online resources like [Fullstack Open] (https://fullstackopen.com/en/about/)
+I taught myself how to code using a variety of sources online including [Odin Project](https://www.theodinproject.com/) and [Scrimba React Bootcamp](https://scrimba.com/learn/react). Even though I am working full time as a developer, I still regularly hunt for online resources, most recently I am enjoying the courses through the University of Helsinki and their online resources like [Fullstack Open](https://fullstackopen.com/en/about/) and Oracle's Java certification courses.
 
 ### Skills
 
@@ -44,12 +44,13 @@ I taught myself how to code using a variety of sources online including [Odin Pr
     - Organization
   </div>
   <div style="flex: 1">
-    - Javascript, Node
+    - Javascript, Node, Express
     - React, Typescript
     - HTML, CSS, Sass, Bootstrap
     - Java, JSP
     - Git / Version Control
     - Oracle, MongoDB
+    - Liferay DXP
   </div>
 </div>
 
@@ -66,7 +67,8 @@ Availability upon request.
 ## Key Highlights
 
 - Demonstrated adaptability and commitment to professional growth by transitioning from a Junior Frontend Developer to a Fullstack Developer at Zions Bancorp.
-- Dedicated to growth and development. If I don't know something, I put in the time and effort to learn it!
+- I am self-taught. Teaching yourself requires a great deal more organization, motivation, and grit than having course work laid out in front of you. 
+
 
 Thank you for considering my resume!
 
