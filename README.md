@@ -56,6 +56,8 @@ I taught myself how to code using a variety of sources online including [Odin Pr
 
 ### Projects
 
+__MIMIR AI Chatbot__ - an AI chatbot assistant, built for Zions Bancorporation hackathon, that can tap into internal data and AI models to provide intelligent responses tailored to the user's need. UI built in React, backend in Python, composed with Docker. 
+
 __Treasury Gateway__ - a portal for business banking customers that provides an integrated dashboard of all their banking services as well as single sign-on to those related applictions. I was brought on to be the frontend developer and have grown into a fullstack developer while taking this project into production. Currently we are implementing new features and refining current ones. 
 
 __Affluent POC__ - a proof-of-concept project to create a dashboard for high-value bank constumers where they could see an overview of their relationship with the bank, including accounts, latest transactions, and summary of recent activity. 
