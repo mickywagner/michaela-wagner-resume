@@ -27,10 +27,13 @@ __Frontend Developer II__
 
 As a Frontend Developer, I successfully contributed to the development of user interfaces and collaborated with UX/UI designers to implement design concepts.
 
-### Education
-University of Southern California, Los Angeles — Bachelor of Arts - Film & Television Production
+### Projects
 
-I taught myself how to code using a variety of sources online including [Odin Project](https://www.theodinproject.com/) and [Scrimba React Bootcamp](https://scrimba.com/learn/react). Even though I am working full time as a developer, I still regularly hunt for online resources, most recently I am enjoying the courses through the University of Helsinki and their online resources like [Fullstack Open](https://fullstackopen.com/en/about/) and Oracle's Java certification courses.
+__MIMIR AI Chatbot__ - an AI chatbot assistant, built for Zions Bancorporation hackathon, that can tap into internal data and AI models to provide intelligent responses tailored to the user's need. UI built in React, backend in Python, composed with Docker. 
+
+__Treasury Gateway__ - a portal for business banking customers that provides an integrated dashboard of all their banking services as well as single sign-on to those related applictions. I was brought on to be the frontend developer and have grown into a fullstack developer while taking this project into production. Currently we are implementing new features and refining current ones. 
+
+__Affluent POC__ - a proof-of-concept project to create a dashboard for high-value bank constumers where they could see an overview of their relationship with the bank, including accounts, latest transactions, and summary of recent activity. 
 
 ### Skills
 
@@ -54,13 +57,10 @@ I taught myself how to code using a variety of sources online including [Odin Pr
   </div>
 </div>
 
-### Projects
+### Education
+University of Southern California, Los Angeles — Bachelor of Arts - Film & Television Production
 
-__MIMIR AI Chatbot__ - an AI chatbot assistant, built for Zions Bancorporation hackathon, that can tap into internal data and AI models to provide intelligent responses tailored to the user's need. UI built in React, backend in Python, composed with Docker. 
-
-__Treasury Gateway__ - a portal for business banking customers that provides an integrated dashboard of all their banking services as well as single sign-on to those related applictions. I was brought on to be the frontend developer and have grown into a fullstack developer while taking this project into production. Currently we are implementing new features and refining current ones. 
-
-__Affluent POC__ - a proof-of-concept project to create a dashboard for high-value bank constumers where they could see an overview of their relationship with the bank, including accounts, latest transactions, and summary of recent activity. 
+I taught myself how to code using a variety of sources online including [Odin Project](https://www.theodinproject.com/) and [Scrimba React Bootcamp](https://scrimba.com/learn/react). Even though I am working full time as a developer, I still regularly hunt for online resources, most recently I am enjoying the courses through the University of Helsinki and their online resources like [Fullstack Open](https://fullstackopen.com/en/about/) and Oracle's Java certification courses.
 
 ### References
 
